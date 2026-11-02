@@ -1,0 +1,84 @@
+Create a complete beginner-friendly Python project called “SIGNMIRROR – AI-Powered Visual Communication System”.
+
+PROJECT GOAL:
+Build a smart mirror/webcam application that recognizes selected sign-language hand gestures using a webcam and displays the corresponding meaning as text. It should also convert the recognized text into speech.
+
+TECHNOLOGIES:
+- Python
+- OpenCV
+- MediaPipe for hand/gesture detection
+- A simple machine-learning or rule-based gesture recognition system
+- Text-to-speech using pyttsx3
+- Tkinter or a simple OpenCV interface for the display
+
+WORKFLOW:
+Sign gesture → Webcam → Hand detection → Gesture recognition → Text → Voice
+
+REQUIRED FEATURES:
+1. Open the computer webcam.
+2. Detect a person's hand in real time.
+3. Track hand landmarks.
+4. Recognize a small set of predefined gestures.
+5. Start with these sample gestures:
+   - HELLO
+   - YES
+   - NO
+   - OK
+   - THANK YOU
+6. Display the recognized word clearly on the screen.
+7. Speak the recognized word using text-to-speech.
+8. Prevent the same word from being spoken repeatedly every frame. Add a short cooldown.
+9. Show a simple status such as:
+   “Show a sign”
+   “Recognizing...”
+   “Detected: HELLO”
+10. Include a clean, attractive “smart mirror” style interface.
+
+USER INTERFACE:
+- Title: SIGNMIRROR
+- Subtitle: AI-POWERED VISUAL COMMUNICATION SYSTEM
+- Large webcam preview
+- Hand landmark visualization
+- Large recognized-text area
+- Text-to-speech status
+- Simple modern blue/purple design
+- Make it easy for a college student to demonstrate during an ideathon.
+
+PROJECT STRUCTURE:
+Create a clean project structure such as:
+
+SIGNMIRROR/
+│
+├── main.py
+├── gesture_recognition.py
+├── speech.py
+├── config.py
+├── requirements.txt
+├── README.md
+└── assets/
+
+CODE REQUIREMENTS:
+- Write clean and well-commented Python code.
+- Keep the code beginner-friendly.
+- Explain what each file does.
+- Include error handling for missing webcam, missing libraries, and speech errors.
+- Make sure the application can run locally.
+- Include exact installation commands.
+- Include exact command to run the project.
+- If MediaPipe or another library has compatibility issues with the installed Python version, explain the solution and provide an alternative.
+- Do not require any wearable device or wristband.
+
+DEMO REQUIREMENT:
+The project must be suitable for a live college demonstration. When I show a gesture to the webcam, the application should recognize it, display the corresponding word, and speak it aloud.
+
+IMPORTANT:
+Do not create only a static webpage or mockup. Create an actual working Python prototype using the webcam and hand detection.
+
+Also provide:
+1. Complete source code.
+2. requirements.txt.
+3. Setup instructions.
+4. How to test each gesture.
+5. Explanation of how the system works.
+6. Common errors and fixes.
+7. Suggestions for adding more sign-language gestures later.

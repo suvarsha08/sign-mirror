@@ -1,0 +1,46 @@
+================================================================
+  SIGNMIRROR – Gesture Quick-Reference Guide
+================================================================
+
+Below is how to perform each of the five supported gestures
+in front of the camera.  Hold each pose steadily for about
+half a second so the stability buffer can confirm the sign.
+
+────────────────────────────────────────────────────────────
+
+1. HELLO  (Wave / Open Palm)
+   • Hold your hand up, palm facing the camera.
+   • Extend ALL five fingers wide apart (spread them).
+   • Keep your hand still (or wave gently).
+
+2. YES  (Thumbs Up)
+   • Make a closed fist.
+   • Extend ONLY your thumb straight up.
+   • Keep the other four fingers curled in.
+
+3. NO  (Index Finger Only)
+   • Make a closed fist.
+   • Extend ONLY your index finger upward.
+   • Keep thumb, middle, ring, and pinky closed.
+
+4. OK  (OK Sign / Circle)
+   • Touch your thumb tip to your index finger tip,
+     forming a small circle / ring.
+   • Extend your middle, ring, and pinky fingers upward.
+
+5. THANK YOU  (Flat Palm / Fingers Together)
+   • Hold your hand up with ALL fingers extended.
+   • Keep your fingers TOGETHER (not spread apart).
+   • Palm can face the camera or be angled slightly.
+
+────────────────────────────────────────────────────────────
+
+TIPS
+  • Face a well-lit area; avoid strong back-lighting.
+  • Keep your hand within the camera frame, ideally
+    at chest-to-face height.
+  • Hold each gesture steadily – quick flicks may be
+    filtered out by the stability buffer.
+  • You can use either hand; the system detects both.
+
+================================================================
